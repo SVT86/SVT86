@@ -5,6 +5,7 @@
 ![ASM](pngwing.com(1).png)
 ![C++](/pngegg.png)
 ![JAVA](/java-logotic.png)
+![NodejS](/nodejs-logotic.png)
 ![Angular](/angular-icon.png)
 ![Laravel](https://github.com/SVT86/SVT86/blob/main/laravel-logotic.png)
 ![PHP](https://github.com/SVT86/SVT86/blob/main/php-logo.png)
