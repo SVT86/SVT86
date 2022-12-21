@@ -1,5 +1,6 @@
 # HOLA MUNDO !
-![SVT86](https://i.imgur.com/MK40lFy.png,"https://github.com/SVT86/SVT86/edit/main/README.md")
+![C](/The_C_Programming_Language_logo.svg.png)
 
-
-
+![Angular](/angular-icon.png)
+![PHP](https://github.com/SVT86/SVT86/blob/main/php-logo.png)
+![JS](https://github.com/SVT86/SVT86/blob/main/JavaScript-logo.png)
