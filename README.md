@@ -10,6 +10,7 @@
 --------------------------------
 ![HTML5](/html-5-logotic.png)
 ![NodejS](/nodejs-logotic.png)
+![NEST](/nest-js-logotic.png)
 ![Angular](/angular-icon.png)
 ![Laravel](https://github.com/SVT86/SVT86/blob/main/laravel-logotic.png)
 -------------------------------------
