@@ -1,5 +1,6 @@
 # HOLA MUNDO !
 ![C](/The_C_Programming_Language_logo.svg.png)
+![LINUX](/linux-tux-logotic.png)
 -----------------------------
 ![C++](/pngegg.png)
 ![JAVA](/java-logotic.png)
