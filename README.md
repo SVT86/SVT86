@@ -7,3 +7,4 @@
 ![Laravel](https://github.com/SVT86/SVT86/blob/main/laravel-logotic.png)
 ![PHP](https://github.com/SVT86/SVT86/blob/main/php-logo.png)
 ![JS](https://github.com/SVT86/SVT86/blob/main/JavaScript-logo.png)
+![mysql](https://github.com/SVT86/SVT86/blob/main/mysql-logotic.png)
