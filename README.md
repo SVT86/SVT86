@@ -7,16 +7,15 @@
 ![JAVA](/java-logotic.png)
 ![PHP](https://github.com/SVT86/SVT86/blob/main/php-logo.png)
 ![JS](https://github.com/SVT86/SVT86/blob/main/JavaScript-logo.png)
---------------------------------
+
 ![HTML5](/html-5-logotic.png)
 ![NodejS](/nodejs-logotic.png)
 ![NEST](/nest-js-logotic.png)
 ![Angular](/angular-icon.png)
 ![Laravel](https://github.com/SVT86/SVT86/blob/main/laravel-logotic.png)
--------------------------------------
+
 ![mysql](https://github.com/SVT86/SVT86/blob/main/mysql-logotic.png)
 ![mongoDB](/mongodb-logotic.png)
 --------------------------------------
-## Lenguajes actuales en repositorios.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Estado actual de SVT86](https://github-readme-stats.vercel.app/api?username=svt86&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
