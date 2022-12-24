@@ -17,6 +17,8 @@
 ![mysql](https://github.com/SVT86/SVT86/blob/main/mysql-logotic.png)
 ![mongoDB](/mongodb-logotic.png)
 <br>
+[![SVT86's GitHub stats](https://github-readme-stats.vercel.app/api?username=svt86)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <p align="center">
     <a href="https://github.com/svt86">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
