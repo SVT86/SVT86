@@ -17,7 +17,7 @@
 ![mysql](https://github.com/SVT86/SVT86/blob/main/mysql-logotic.png)
 ![mongoDB](/mongodb-logotic.png)
 --------------------------------------
-<br>
+
 ## Lenguajes actuales en repositorios.
 
 <p align="center">
