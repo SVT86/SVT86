@@ -19,13 +19,8 @@
 <br>
 
 <br>
-<p align="center">
+<p align="center" style="background-color:red">
     <a href="https://github.com/svt86">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
-    <a href="https://github.com/svt86/svt86">
-     <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)" alt="SVT86's GitHub Stats" />
-    </a>
-   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+   </p>
