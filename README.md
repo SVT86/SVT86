@@ -19,8 +19,9 @@
 <br>
 
 <br>
-<p align="center" style="background-color:red">
+<p align="center">
     <a href="https://github.com/svt86">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
    </p>
+    
