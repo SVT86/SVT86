@@ -19,7 +19,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/svt86">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
     <a href="https://github.com/jyongkim/svt86">
     <img src="https://github-readme-stats.vercel.app/api?username=svt86&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SVT86's GitHub Stats" />
