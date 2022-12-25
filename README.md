@@ -26,11 +26,11 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"
 </div>
-<div>  
+<div>
+  <font color='red'>
 <br>
-<p><em> “No temo a los ordenadores; lo que temo es quedarme sin ellos” </em>
-— Isaac Asimov
-</p>
+<p style="color:red"><em> “No temo a los ordenadores; lo que temo es quedarme sin ellos” </em>
+— Isaac Asimov</p>
   
 <p><em>“Todas las piezas deben unirse sin ser forzadas. Debe recordar que los componentes que está reensamblando fueron desmontados por usted, por lo que si no puede unirlos debe existir una razón. Pero sobre todo, no use un martillo”</em>
 — Manual de mantenimiento de IBM, año 1925
@@ -40,3 +40,4 @@
 </p>
   
 </div>
+
