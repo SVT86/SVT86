@@ -8,16 +8,16 @@
 <table border=1 align=center>
 <tr align=center>
 <td><img src="/pngegg.png"></td>
-<td><img width="70%" src="/java-logotic.png"></td>
-<td><img width="70%" src="/php-logo.png"></td>
-<td><img width="70%" src="/JavaScript-logo.png"></td>
-<td><img width="70%" src="/html-5-logotic.png"></td>
-<td><img width="70%" src="/nodejs-logotic.png"></td>
-<td><img width="70%" src="/nest-js-logotic.png"></td>
-<td><img width="70%" src="/angular-icon.png"></td>
-<td><img width="70%" src="/laravel-logotic.png"></td>
-<td><img width="70%" src="/mysql-logotic.png"></td>
-<td><img width="70%" src="/mongodb-logotic.png"></td>
+<td><img src="/java-logotic.png"></td>
+<td><img src="/php-logo.png"></td>
+<td><img src="/JavaScript-logo.png"></td>
+<td><img src="/html-5-logotic.png"></td>
+<td><img src="/nodejs-logotic.png"></td>
+<td><img src="/nest-js-logotic.png"></td>
+<td><img src="/angular-icon.png"></td>
+<td><img src="/laravel-logotic.png"></td>
+<td><img src="/mysql-logotic.png"></td>
+<td><img src="/mongodb-logotic.png"></td>
 </tr>
 </table>
 
