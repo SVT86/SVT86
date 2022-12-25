@@ -26,13 +26,12 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"
 </div>
-<div>
-  
-<br>
-  <br>
+
+<div align="center">
+<img width=50% src="https://github.com/SVT86/SVT86/blob/main/linea.png">
 <p><em> “No temo a los ordenadores; lo que temo es quedarme sin ellos” </em>
-— Isaac Asimov</p>
-  
+— Isaac Asimov
+</p>  
 <p><em>“Todas las piezas deben unirse sin ser forzadas. Debe recordar que los componentes que está reensamblando fueron desmontados por usted, por lo que si no puede unirlos debe existir una razón. Pero sobre todo, no use un martillo”</em>
 — Manual de mantenimiento de IBM, año 1925
 </p>
