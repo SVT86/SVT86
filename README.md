@@ -7,7 +7,7 @@
 
 <table border=1 align=center>
 <tr align=center>
-<td><img width="100%" src="/pngegg.png"></td>
+<td><img src="/pngegg.png"></td>
 <td><img width="70%" src="/java-logotic.png"></td>
 <td><img width="70%" src="/php-logo.png"></td>
 <td><img width="70%" src="/JavaScript-logo.png"></td>
