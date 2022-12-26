@@ -1,6 +1,6 @@
 # ¡ HOLA MUNDO !
 <p align=center>
-<kbd><img src="/Dise%C3%B1o%20sin%20t%C3%ADtulo(6).gif"/></kbd>
+  <kbd><a href="#"><img src="/Dise%C3%B1o%20sin%20t%C3%ADtulo(6).gif"/></a></kbd>
 </p>
 
 -----------------------------
