@@ -11,13 +11,13 @@
   <td><a href="#"><img src="/java-logotic.png"></a></td>
   <td><a href="#"><img src="/php-logo.png"></a></td>
   <td><a href="#"><img src="/JavaScript-logo.png"></a></td>
-<td><img src="/html-5-logotic.png"></td>
-<td><img src="/nodejs-logotic.png"></td>
-<td><img src="/nest-js-logotic.png"></td>
-<td><img src="/angular-icon.png"></td>
-<td><img src="/laravel-logotic.png"></td>
-<td><img src="/mysql-logotic.png"></td>
-<td><img src="/mongodb-logotic.png"></td>
+  <td><a href="#"><img src="/html-5-logotic.png"></a></td>
+  <td><a href="#"><img src="/nodejs-logotic.png"></a></td>
+  <td><a href="#"><img src="/nest-js-logotic.png"></a></td>
+  <td><a href="#"><img src="/angular-icon.png"></a></td>
+  <td><a href="#"><img src="/laravel-logotic.png"></a></td>
+  <td><a href="#"><img src="/mysql-logotic.png"></a></td>
+  <td><a href="#"><img src="/mongodb-logotic.png"></a></td>
 </tr>
 </table>
 
