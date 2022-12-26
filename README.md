@@ -7,10 +7,10 @@
 
 <table border=1 align=center>
 <tr align=center>
-<td><img src="/pngegg.png"></td>
-<td><img src="/java-logotic.png"></td>
-<td><img src="/php-logo.png"></td>
-<td><img src="/JavaScript-logo.png"></td>
+  <td><a href="#"><img src="/pngegg.png"></a></td>
+  <td><a href="#"><img src="/java-logotic.png"></a></td>
+  <td><a href="#"><img src="/php-logo.png"></a></td>
+  <td><a href="#"><img src="/JavaScript-logo.png"></a></td>
 <td><img src="/html-5-logotic.png"></td>
 <td><img src="/nodejs-logotic.png"></td>
 <td><img src="/nest-js-logotic.png"></td>
