@@ -24,12 +24,12 @@
 --------------------------------------
 <div align="center">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"</a>
 </div>
 <br>
 <br>
 <div align="center">
-<img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png">
+  <a href="#"><img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png"></a>
 <p><em> “No temo a los ordenadores; lo que temo es quedarme sin ellos” </em>
 — Isaac Asimov
 </p>  
@@ -40,6 +40,6 @@
   <p><em> “UNIX es simple. Sólo necesita un genio para entender su simplicidad”</em>
 — Dennis Ritchie
 </p>
-  <img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png">
+  <a href="#"><img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png"></a>
 </div>
 
