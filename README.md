@@ -3,6 +3,17 @@
   <kbd><a href="#"><img src="/Dise%C3%B1o%20sin%20t%C3%ADtulo(6).gif"/></a></kbd>
 </p>
 
+<a href="#"><img src="/pngegg.png"></a>
+  <a href="#"><img src="/java-logotic.png"></a>
+  <a href="#"><img src="/php-logo.png"></a>
+  <a href="#"><img src="/JavaScript-logo.png"></a>
+  <a href="#"><img src="/html-5-logotic.png"></a>
+  <a href="#"><img src="/nodejs-logotic.png"></a>
+  <a href="#"><img src="/nest-js-logotic.png"></a>
+  <a href="#"><img src="/angular-icon.png"></a>
+  <a href="#"><img src="/laravel-logotic.png"></a>
+  <a href="#"><img src="/mysql-logotic.png"></a>
+  <a href="#"><img src="/mongodb-logotic.png"></a>
 -----------------------------
 
 <table border=1 align=center>
