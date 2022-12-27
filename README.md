@@ -3,23 +3,17 @@
   <kbd><a href="#"><img src="/Dise%C3%B1o%20sin%20t%C3%ADtulo(6).gif"/></a></kbd>
 </p>
 
-<a href="#"><img src="/pngegg.png" width=100%></a>
-
-<table border=0 align=center>
-<tr align=center>
-  <td><a href="#"><img src="/pngegg.png" width="100%"></a></td>
-  <td><a href="#"><img src="/java-logotic.png"></td>
-  <td><a href="#"><img src="/php-logo.png"></a></td>
-  <td><a href="#"><img src="/JavaScript-logo.png"></a></td>
-  <td><a href="#"><img src="/html-5-logotic.png"></a></td>
-  <td><a href="#"><img src="/nodejs-logotic.png"></a></td>
-  <td><a href="#"><img src="/nest-js-logotic.png"></a></td>
-  <td><a href="#"><img src="/angular-icon.png"></a></td>
-  <td><a href="#"><img src="/laravel-logotic.png"></a></td>
-  <td><a href="#"><img src="/mysql-logotic.png"></a></td>
-  <td><a href="#"><img src="/mongodb-logotic.png"></a></td>
-</tr>
-</table>
+<a href="#"><img src="/pngegg.png" width=10% height=10%></a>
+<a href="#"><img src="/java-logotic.png" width=10% height=10%></a>
+<a href="#"><img src="/php-logo.png" width=13% height=30%></a>
+<a href="#"><img src="/JavaScript-logo.png" width=10% height=10%></a>
+<a href="#"><img src="/html-5-logotic.png" width=10% height=10%></a>
+<a href="#"><img src="/nodejs-logotic.png" width=10% height=10%></a>
+<a href="#"><img src="/nest-js-logotic.png" width=10% height=10%></a>
+<a href="#"><img src="/angular-icon.png" width=10% height=10%></a>
+<a href="#"><img src="/laravel-logotic.png" width=10% height=10%></a>
+<a href="#"><img src="/mysql-logotic.png" width=14% height=10%></a>
+<a href="#"><img src="/mongodb-logotic.png" width=20% height=10%></a>
 
 --------------------------------------
 <div align="center">
