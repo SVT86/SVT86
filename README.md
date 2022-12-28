@@ -7,6 +7,7 @@
 <a href="#"><img src="/java-logotic.png" width=10% height=10%></a>
 <a href="#"><img src="/php-logo.png" width=13% height=30%></a>
 <a href="#"><img src="/JavaScript-logo.png" width=10% height=10%></a>
+<a href="#"><img src="/typescript-6.png" width=12% height=10%></a>
 <a href="#"><img src="/html-5-logotic.png" width=10% height=10%></a>
 <a href="#"><img src="/nodejs-logotic.png" width=10% height=10%></a>
 <a href="#"><img src="/nest-js-logotic.png" width=10% height=10%></a>
