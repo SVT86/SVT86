@@ -43,6 +43,10 @@
 <p><em>“En realidad no trato de destruir a Microsoft: eso será sólo un efecto colateral no intencionado”</em>
 — Linus Torvalds
 </p>
+  <p><em>“En el futuro es posible que los ordenadores no pesen más de 1,5 toneladas”</em>
+    — Popular mechanics, 1949</p>
+  <p><em>“Los virus informáticos son una leyenda urbana”</em>
+    — Peter Norton, 1988</p>
   <a href="#"><img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png"></a>
 </div>
 
