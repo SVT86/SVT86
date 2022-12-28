@@ -1,5 +1,5 @@
 <div align=center>
-<a href="#"><img src="/SVT86!.gif" width=50%></a>
+<a href="#"><img src="/SVT86!.gif" width=70%></a>
 </div>
 
 <div align=center>
