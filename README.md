@@ -13,6 +13,7 @@
 <a href="#"><img src="/angular-icon.png" width=10% height=10%></a>
 <a href="#"><img src="/laravel-logotic.png" width=10% height=10%></a>
 <a href="#"><img src="/mysql-logotic.png" width=14% height=10%></a>
+<a href="#"><img src="/SQLite370.svg.png" width=15% height=10%></a>
 <a href="#"><img src="/mongodb-logotic.png" width=20% height=10%></a>
 
 --------------------------------------
