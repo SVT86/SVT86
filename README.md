@@ -7,6 +7,8 @@
 </div>
 <br>
 <div align=center>
+<a href="#"><img src="/bash.png" width=20%></a>
+
 <a href="#"><img src="/pngegg.png" width=10% height=10%></a>
 <a href="#"><img src="/java-logotic.png" width=10% height=10%></a>
 <a href="#"><img src="/php-logo.png" width=13% height=30%></a>
