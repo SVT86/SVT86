@@ -1,11 +1,247 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>SVT86</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SVT86 | Programador de fundamentos</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background:
+        radial-gradient(circle at top, rgba(0, 255, 140, 0.12), transparent 35%),
+        linear-gradient(135deg, #050505, #0b0f14 50%, #000000);
+      color: #e6e6e6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1050px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(10, 14, 18, 0.88);
+      box-shadow: 0 0 60px rgba(0, 255, 140, 0.08);
+      border-radius: 22px;
+      padding: 60px;
+      backdrop-filter: blur(10px);
+    }
+
+    .badge {
+      display: inline-block;
+      color: #9cffc8;
+      border: 1px solid rgba(156, 255, 200, 0.25);
+      background: rgba(156, 255, 200, 0.06);
+      padding: 8px 14px;
+      border-radius: 999px;
+      font-size: 0.9rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 28px;
+    }
+
+    h1 {
+      font-size: clamp(3rem, 8vw, 7rem);
+      line-height: 0.95;
+      letter-spacing: -0.08em;
+      color: #ffffff;
+      margin-bottom: 20px;
+    }
+
+    h1 span {
+      color: #9cffc8;
+      text-shadow: 0 0 25px rgba(156, 255, 200, 0.35);
+    }
+
+    .subtitle {
+      font-size: clamp(1.2rem, 2vw, 1.7rem);
+      color: #b7c0c8;
+      max-width: 760px;
+      line-height: 1.6;
+      margin-bottom: 42px;
+    }
+
+    .subtitle strong {
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-bottom: 42px;
+    }
+
+    .card {
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 16px;
+      padding: 22px;
+      transition: 0.25s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(156, 255, 200, 0.35);
+      box-shadow: 0 0 28px rgba(156, 255, 200, 0.08);
+    }
+
+    .card h2 {
+      font-size: 1rem;
+      color: #9cffc8;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .card p {
+      color: #c8d0d8;
+      line-height: 1.6;
+      font-size: 0.98rem;
+    }
+
+    .tech {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 38px;
+    }
+
+    .tech span {
+      padding: 9px 13px;
+      border-radius: 10px;
+      background: #111820;
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      color: #d8e0e8;
+      font-size: 0.92rem;
+    }
+
+    .quote {
+      border-left: 3px solid #9cffc8;
+      padding-left: 20px;
+      color: #d0d7de;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      max-width: 850px;
+      margin-bottom: 38px;
+    }
+
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding-top: 26px;
+      color: #8f9ba8;
+      font-size: 0.95rem;
+    }
+
+    .footer a {
+      color: #9cffc8;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 800px) {
+      .container {
+        padding: 34px 24px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .footer {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
 </head>
+
 <body>
-  <div><img src="SVT86!.gif"></div>
-  <p>Programador clásico orientado a fundamentos.</p>
+  <main class="container">
+    <div class="badge">SVT86 · Cultura informática clásica</div>
+
+    <h1>SVT<span>86</span></h1>
+
+    <p class="subtitle">
+      Programador clásico orientado a <strong>fundamentos</strong>.
+      Interesado en comprender la programación desde sus bases:
+      lógica, algoritmos, estructuras de datos, archivos, memoria,
+      sistemas operativos, SQL, Linux, Web e IA usada con criterio.
+    </p>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Fundamentos</h2>
+        <p>
+          Algoritmos, estructuras de datos, tipos, memoria, archivos,
+          abstracción, modelado y pensamiento lógico aplicado al código.
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Sistemas</h2>
+        <p>
+          Cultura DOS/Linux, consola, procesos, permisos, redirecciones,
+          compilación, organización del sistema y relación con la máquina.
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Datos y Web</h2>
+        <p>
+          SQL, SQLite, HTML, CSS, JavaScript sobrio y construcción de
+          sistemas pequeños, claros, persistentes y controlables.
+        </p>
+      </article>
+    </section>
+
+    <section class="tech">
+      <span>C</span>
+      <span>Pascal</span>
+      <span>Python</span>
+      <span>Assembler</span>
+      <span>BASIC</span>
+      <span>Linux</span>
+      <span>SQL</span>
+      <span>SQLite</span>
+      <span>HTML</span>
+      <span>CSS</span>
+      <span>JavaScript</span>
+      <span>Git</span>
+      <span>IA</span>
+    </section>
+
+    <p class="quote">
+      “No corro detrás del framework de moda. Prefiero entender las capas
+      que sostienen la tecnología: cómo se representa la información,
+      cómo se organiza un sistema y cómo se construyen programas claros,
+      pequeños y con sentido.”
+    </p>
+
+    <footer class="footer">
+      <p>Proyecto personal: <strong>Sentido de Programar</strong></p>
+      <p>
+        GitHub:
+        <a href="https://github.com/SVT86" target="_blank">github.com/SVT86</a>
+      </p>
+    </footer>
+  </main>
 </body>
 </html>
