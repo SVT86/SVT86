@@ -27,12 +27,12 @@
 </div>
 
 --------------------------------------
-<div align="center">
+<!--div align="center">
 <br>
-<!--a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"></a-->
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"></a>
 </div>
 <br>
-<br>
+<br-->
 <div align="center">
   <a href="#"><img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png"></a>
 <p><em> “No temo a los ordenadores; lo que temo es quedarme sin ellos” </em>
