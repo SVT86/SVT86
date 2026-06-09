@@ -29,7 +29,7 @@
 --------------------------------------
 <div align="center">
 <br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"></a>
+<!--a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86&theme=dark"></a-->
 </div>
 <br>
 <br>
