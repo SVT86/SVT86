@@ -34,7 +34,7 @@
 <br>
 <br>
 <div align="center">
-  <a href="#"><img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png"></a>
+  <a href="#">*<img width=50% src="https://github.com/SVT86/SVT86/blob/main/2154993.png"></a>
 <p><em> “No temo a los ordenadores; lo que temo es quedarme sin ellos” </em>
 — Isaac Asimov
 </p>  
